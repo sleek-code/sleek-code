@@ -1,9 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Enrique%2C)](https://git.io/typing-svg) 
 
 <img width=400 align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
